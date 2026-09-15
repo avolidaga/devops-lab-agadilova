@@ -1,0 +1,7 @@
+.profile-photo {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 16px;
+}
